@@ -1,4 +1,5 @@
 🧠 Next Word Prediction Using LSTM
+
 This project aims to develop a deep learning model for predicting the next word in a given sequence of words using Long Short-Term Memory (LSTM) networks — a type of Recurrent Neural Network (RNN) that excels at learning long-term dependencies in sequential data.
 We train the model on the rich and stylistically complex text of Shakespeare's Hamlet , providing a compelling challenge for language modeling tasks.
 
