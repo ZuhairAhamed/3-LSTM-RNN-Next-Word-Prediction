@@ -113,7 +113,7 @@ next_word=predict_next_word(model,tokenizer,input_text,max_sequence_len)
 print(f"Next Word PRediction:{next_word}")
 
 ## Save the model
-model.save("next_word_lstm_gru.keras")
+model.save("next_word_lstm.h5")
 
 ## Save the tokenizer
 import pickle
