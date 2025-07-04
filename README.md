@@ -27,3 +27,5 @@ We train the model on the rich and stylistically complex text of Shakespeare's H
 
 6. Deployment
     A web interface is built using Streamlit , allowing users to input a sequence of words and receive real-time predictions from the trained model.
+
+APP URL : https://3-lstm-rnn-next-word-prediction.streamlit.app/
